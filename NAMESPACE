@@ -1,0 +1,20 @@
+export(
+       startCluster,
+       get.master,
+       ec2din,
+       ec2stop.instances,
+       ec2terminate.instances,
+       stopCluster,
+       terminateCluster,
+       ec2stop.reservation,
+       ec2terminate.reservation,
+       s3.mb,
+       s3.rb,
+       s3.ls,
+       s3.la,
+       s3.put,
+       s3.get,
+       s3.del,
+       s3.info,
+       s3.du
+       )

@@ -1,0 +1,12 @@
+ff5f8fd3631301c4494ea97d20e3fd4d *DESCRIPTION
+569b3d26839e3d26b360cb983f1a60d9 *NAMESPACE
+27ea4039d47b1235e7e487f9960cc5d4 *R/ec2.controler.R
+83bc01202d9f5d8a4665c1ddd8b6dc46 *R/s3.commands.R
+95de3c3c94e390bd32587638f1c3e304 *README.rst
+1343a90302a8d9c9c4d1fd2d96b0ecbd *man/ec2din.Rd
+b188e15904260f89058e8c674a3ebca1 *man/ec2stop.instances.Rd
+73440aa0e7924752a7863f11202450dc *man/ec2stop.reservation.Rd
+ebc3dba712e55a332fbbbfdee33f86ae *man/get.master.Rd
+b99f2a9da3bac2071115015d8130bae0 *man/s3.cmds.Rd
+0b7b0f25f9b57cb2bbc996adeb5d2f54 *man/startCluster.Rd
+b2cfdb61daf8532cd7214c4150b3b0b3 *man/stopCluster.Rd
